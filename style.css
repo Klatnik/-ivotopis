@@ -13,8 +13,9 @@ h3 {
 }
 
 h1 {
-    font-size: 90px;
-    text-align: center; 
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 14px; 
     margin: 0;
 }
 
@@ -33,6 +34,7 @@ a {
 
 table {
     border-collapse: collapse;
+    width: 70%;
 }
 
 th, td {
@@ -45,7 +47,7 @@ th, td {
 .foto-ja {
     width: 200px;
     float: left;
-    margin: 0 30px 30px 0;
+    margin: 0 40px 30px 0;
 }
 
 .education-icon {
@@ -64,12 +66,14 @@ th, td {
     width: 100px;
     float: right;
     margin: 0 0 30px 30px;
+    margin-top: 200px;
 }
 
 .languages-icon {
     width: 100px;
     float: left;
     margin: 0 30px 30px 0;
+    margin-top: 30px
 }
 
 .hobbies-icon {
@@ -149,7 +153,7 @@ section {
 
 
 .paticka {
-    background-color: #282425;
+    background-color: black;
     text-align: center;
     color: white;
 }
