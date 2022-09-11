@@ -1,7 +1,9 @@
 body {
+    background-color: #4d9cde;
     font-size: 20px;
     line-height: 1.5;
     font-family: 'Montserrat', sans-serif;
+    margin: 0;
 }
 
 h1,
@@ -9,3 +11,151 @@ h2,
 h3 {
     font-family: 'Montserrat', sans-serif;
 }
+
+h1 {
+    font-size: 90px;
+    text-align: center; 
+    margin: 0;
+}
+
+h2 {
+    margin-top: 0;
+    text-align: center
+}
+
+h3 {
+    margin-top: 36px;
+}
+
+a {
+    font-style: bold;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    text-align: left;
+    border-bottom: 1px solid black;
+    padding: 20px 0;
+}
+
+
+.foto-ja {
+    width: 200px;
+    float: left;
+    margin: 0 30px 30px 0;
+}
+
+.education-icon {
+    width: 100px;
+    float: right;
+    margin: 0 0 30px 30px;
+}
+
+.course-icon {
+    width: 100px;
+    float: left;
+    margin: 0 30px 30px 0;
+}
+
+.work-icon {
+    width: 100px;
+    float: right;
+    margin: 0 0 30px 30px;
+}
+
+.languages-icon {
+    width: 100px;
+    float: left;
+    margin: 0 30px 30px 0;
+}
+
+.hobbies-icon {
+    width: 100px;
+    float: right;
+    margin: 0 0 30px 30px;
+}
+
+.hlavicka {
+    background-image: url(Foto/header.jpeg);
+    padding: 150px 30px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.menu {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #4d9cde 
+}
+
+.menu li {
+    display: inline-block;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    padding: 20px 30px;
+}
+
+.menu a:hover,
+.menu a:focus,
+.menu a:active {
+    background-color: #8bd1f2;
+}
+
+section {
+    padding: 60px 20%;
+    overflow: auto;
+}
+
+.omne,
+.kurzy,
+.znalosti {
+    background-color: #f2f7f0;
+}
+
+.kontakt {
+    background-color: #f2f7f0;
+    text-align: center;
+}
+
+.kurzy p {
+    text-align: right;
+}
+.kontakt a {
+    text-decoration: none;
+}
+.facebook,
+.instagram {
+    width: 100px;
+    margin: 50px
+}
+
+.znalosti p, h3 {
+    text-align: right;
+}
+
+.zajmy {
+    text-align: left;
+}
+
+
+
+.paticka {
+    background-color: #282425;
+    text-align: center;
+    color: white;
+}
+
+footer {
+    padding: 20px 0;
+}
+
+ 
