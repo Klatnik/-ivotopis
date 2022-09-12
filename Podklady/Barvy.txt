@@ -1,5 +1,5 @@
-4d9cde 
+background-color: header obrázek
 
-f2f7f0
+sekce: f2f7f0
 
-8bd1f2
+menu hover: 8bd1f2
