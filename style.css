@@ -134,7 +134,7 @@ section {
     text-align: center;
 }
 
-.kurzy-seznam {
+.kurzy li {
     text-align: right;
     list-style-position: inside;
 }
@@ -152,6 +152,12 @@ section {
 .znalosti p, h3 {
     text-align: right;
 }
+
+.znalosti li {
+    text-align: right;
+    list-style-position: inside;
+}
+
 
 .zajmy {
     text-align: left;
