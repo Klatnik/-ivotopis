@@ -54,33 +54,33 @@ th, td {
     
 }
 
-.education-icon {
+.vzdelani-ikona {
     width: 100px;
     float: right;
     margin: 0 0 30px 30px;
 }
 
-.course-icon {
+.kurzy-ikona {
     width: 100px;
     float: left;
     margin: 0 30px 30px 0;
 }
 
-.work-icon {
+.prace-ikona {
     width: 100px;
     float: right;
     margin: 0 0 30px 30px;
     margin-top: 200px;
 }
 
-.languages-icon {
+.jazyky-ikona {
     width: 100px;
     float: left;
     margin: 0 30px 30px 0;
     margin-top: 30px
 }
 
-.hobbies-icon {
+.zajmy-ikona {
     width: 100px;
     float: right;
     margin: 0 0 30px 30px;
@@ -134,9 +134,12 @@ section {
     text-align: center;
 }
 
-.kurzy p {
+.kurzy-seznam {
     text-align: right;
+    list-style-position: inside;
 }
+
+
 .kontakt a {
     text-decoration: none;
 }
